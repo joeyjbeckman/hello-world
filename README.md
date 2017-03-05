@@ -1,3 +1,5 @@
 # hello-world
 
-I am experimenting with the Git version control system.
+Hello, world. This space is supposed to have some information about the project, but the truth is that this is not even a project.
+
+This is just an experimental Git repository which is not supposed to signify anything.
