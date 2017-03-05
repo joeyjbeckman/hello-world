@@ -1,2 +1,3 @@
 # hello-world
-the hello world repo
+
+I am experimenting with the Git version control system.
